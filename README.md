@@ -30,20 +30,20 @@
 欢迎加入胖墩游戏圈
 加入链接：https://t.zsxq.com/06J6AmUrZ
 ##
-![](%E5%9B%BE%E7%89%87/%E8%83%96%E5%A2%A9%E6%98%9F%E7%90%83%E5%8F%B7.jpeg)
+![](Readme%E5%9B%BE%E7%89%87/%E8%83%96%E5%A2%A9%E6%98%9F%E7%90%83%E5%8F%B7.jpeg)
 
 小编微信：pandaagame
 ##
-![](%E5%9B%BE%E7%89%87/%E8%8A%B1%E7%94%9F%E7%B3%96%E5%BE%AE%E4%BF%A1.jpg)
+![](Readme%E5%9B%BE%E7%89%87/%E8%8A%B1%E7%94%9F%E7%B3%96%E5%BE%AE%E4%BF%A1.jpg)
 #
 # [部分内容]
 
-![播放gif插件](%E5%9B%BE%E7%89%87/ProGif.png)
+![播放gif插件]![](Readme%E5%9B%BE%E7%89%87/ProGif.png)
 
-![模型自动绑定工具](%E5%9B%BE%E7%89%87/AccuRIG.png)
+![模型自动绑定工具]![](Readme%E5%9B%BE%E7%89%87/AccuRIG.png)
 
-![](%E5%9B%BE%E7%89%87/any%20world.png)
+![](Readme%E5%9B%BE%E7%89%87/any%20world.png)
 
-![AR夜晚背景 星空](%E5%9B%BE%E7%89%87/AR%E6%B7%B1%E8%89%B2%E8%83%8C%E6%99%AF.png)
+![](Readme%E5%9B%BE%E7%89%87/AR%E6%B7%B1%E8%89%B2%E8%83%8C%E6%99%AF.png)
 
-![](%E5%9B%BE%E7%89%87/%E6%B8%B8%E6%88%8F%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E6%9E%84%E5%92%8C%E4%BC%98%E5%8C%96.png)
+![](Readme%E5%9B%BE%E7%89%87/%E6%B8%B8%E6%88%8F%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E6%9E%84%E5%92%8C%E4%BC%98%E5%8C%96.png)
