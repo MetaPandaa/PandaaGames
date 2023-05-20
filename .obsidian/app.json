@@ -1,4 +1,6 @@
 {
   "useMarkdownLinks": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "文档图片存放处",
+  "newLinkFormat": "relative"
 }
