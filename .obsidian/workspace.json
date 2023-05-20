@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f81338130c67e154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YooAsset_HybridCLR/readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,8 +166,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f81338130c67e154",
+  "active": "c93103acc8394de2",
   "lastOpenFiles": [
+    "Pasted image 20230520144118.png",
+    "YooAsset_HybridCLR/readme.md",
     "Pasted image 20230520132817.png",
     "胖墩游戏圈/电子书/看书工具/知云文献翻译.png",
     "胖墩游戏圈/电子书/看书工具/看电子书工具.md",
@@ -189,7 +179,6 @@
     "胖墩游戏圈/电子书",
     "胖墩游戏圈/游戏团队的人员配置.md",
     "README.md",
-    "YooAsset_HybridCLR/readme.md",
     "YooAsset_HybridCLR",
     "Readme图片/ProGif.png",
     "Readme图片/AR深色背景.png",
