@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f81338130c67e154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YooAsset_HybridCLR/readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,6 +87,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab756b89fc2eab13",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -158,8 +178,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c93103acc8394de2",
+  "active": "f81338130c67e154",
   "lastOpenFiles": [
+    "Pasted image 20230520132817.png",
     "胖墩游戏圈/电子书/看书工具/知云文献翻译.png",
     "胖墩游戏圈/电子书/看书工具/看电子书工具.md",
     "胖墩游戏圈/电子书/电子书/电子书下载.md",
