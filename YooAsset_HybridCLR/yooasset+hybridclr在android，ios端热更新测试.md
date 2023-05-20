@@ -29,4 +29,4 @@ https://github.com/focus-creative-games
 ![[bf0a2ed3e9a8d31b654532664776d03.png]]
 
 
-# 最后欢迎加入胖墩游戏圈 星球，获取更多资源。![[胖墩星球号.jpeg]]
+# 最后欢迎加入胖墩游戏圈 星球，获取更多资源。![[../Readme图片/胖墩星球号.jpeg]]
