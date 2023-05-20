@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "4a2683f99b8a374e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d51733baf3a394f",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e13829b9a61428d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdfd43cb0591943d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2f2c245ae3d44b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e8f0c9cf129ae370",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24bee0509614fdfa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ca8dbd5ee87a82a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a6d2f7e33e540bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dcd212ec5d588e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "935197d0b309d2b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "acefd6eaffdd38c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e43eb3db21546740",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c2f2c245ae3d44b6",
+  "lastOpenFiles": [
+    "README.md",
+    "Readme图片/ProGif.png",
+    "Readme图片/AR深色背景.png",
+    "Readme图片/any world.png",
+    "Readme图片/AccuRIG.png",
+    "Readme图片/游戏服务器架构和优化.png",
+    "Readme图片/胖墩星球号.jpeg",
+    "Readme图片/花生糖微信.jpg"
+  ]
+}
