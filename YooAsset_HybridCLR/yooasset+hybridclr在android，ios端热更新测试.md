@@ -30,3 +30,5 @@ https://github.com/focus-creative-games
 
 
 # 最后欢迎加入胖墩游戏圈 星球，获取更多资源。![[../Readme图片/胖墩星球号.jpeg]]
+
+![](../Readme图片/花生糖微信.jpg)
