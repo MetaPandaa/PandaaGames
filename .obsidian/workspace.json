@@ -11,12 +11,8 @@
             "id": "6d51733baf3a394f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YooAsset_HybridCLR/yooasset+hybridclr在android，ios端热更新测试.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 422.5
   },
   "right": {
     "id": "3ca8dbd5ee87a82a",
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YooAsset_HybridCLR/yooasset+hybridclr在android，ios端热更新测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YooAsset_HybridCLR/yooasset+hybridclr在android，ios端热更新测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,35 +126,38 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "YooAsset_HybridCLR/yooasset+hybridclr在android，ios端热更新测试.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 442.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
+      "daily-notes:打开/创建今天的日记": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6d51733baf3a394f",
+  "active": "c2f2c245ae3d44b6",
   "lastOpenFiles": [
+    "Obsidian学习记录/在github上显示笔记中的图片.md",
+    "2023-05-20.md",
+    "文档图片存放处/Pasted image 20230520145714.png",
+    "胖墩游戏圈/胖墩游戏圈路线说明.md",
+    "Obsidian学习记录",
+    "YooAsset_HybridCLR/yooasset+hybridclr在android，ios端热更新测试.md",
     "文档图片存放处/de39b9a60d1b7a6797b4c26f98510e0.jpg",
     "文档图片存放处/cdce1307b75fc3bf87eb0bbb72116d2.png",
     "文档图片存放处/bf0a2ed3e9a8d31b654532664776d03.png",
     "文档图片存放处/862fc0a15dc17136f226dc2ce126605.jpg",
     "文档图片存放处/38af996cc0985be65c4a964fba002d6.png",
-    "YooAsset_HybridCLR/yooasset+hybridclr在android，ios端热更新测试.md",
     "Pasted image 20230520132817.png",
     "文档图片存放处",
     "README.md",
@@ -174,7 +171,6 @@
     "胖墩游戏圈/电子书",
     "胖墩游戏圈/游戏团队的人员配置.md",
     "YooAsset_HybridCLR",
-    "Readme图片/ProGif.png",
-    "Readme图片/AR深色背景.png"
+    "Readme图片/ProGif.png"
   ]
 }

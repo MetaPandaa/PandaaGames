@@ -10,10 +10,10 @@ https://github.com/focus-creative-games
 
 # 效果图
 ## 苹果手机
+![](../文档图片存放处/862fc0a15dc17136f226dc2ce126605.jpg)
 
-![[862fc0a15dc17136f226dc2ce126605.jpg]]
 ## 安卓手机
-![[de39b9a60d1b7a6797b4c26f98510e0.jpg]]
+![](../文档图片存放处/de39b9a60d1b7a6797b4c26f98510e0.jpg)
 
 # 注意事项
 1.文档一定要详细的看，很多问题在文档中就有解决办法
@@ -23,12 +23,13 @@ https://github.com/focus-creative-games
 
 因为你使用的是原始libil2cpp.a。请根据 [build iOS libil2cpp.a](https://hybridclr.doc.code-philosophy.com/#/basic/buildpipeline) 文档编译最新的。然后替换xcode项目中的libil2cpp.a文件
 
-![[38af996cc0985be65c4a964fba002d6.png]]
-![[cdce1307b75fc3bf87eb0bbb72116d2.png]]
+![](../文档图片存放处/38af996cc0985be65c4a964fba002d6.png)
+![](../文档图片存放处/cdce1307b75fc3bf87eb0bbb72116d2.png)
 
-![[bf0a2ed3e9a8d31b654532664776d03.png]]
+![](../文档图片存放处/bf0a2ed3e9a8d31b654532664776d03.png)
 
 
-# 最后欢迎加入胖墩游戏圈 星球，获取更多资源。![[../Readme图片/胖墩星球号.jpeg]]
+# 最后欢迎加入胖墩游戏圈 星球，获取更多资源。
 
-![](../Readme图片/花生糖微信.jpg)
+
+![](../Readme图片/胖墩星球号.jpeg)
