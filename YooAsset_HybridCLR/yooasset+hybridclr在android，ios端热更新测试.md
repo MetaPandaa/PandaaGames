@@ -1,6 +1,13 @@
+Hybridclr+YooAsset+Unity Run android+iOS
 这个工程是用来学习YooAsset和Hybridcl，来做unity资源和代码热更新，
 实现了android 和ios 双端，跑通
 
+# 版本 很新的版本
+用到的YooAsset 1.4.13
+用到的HybridCLR 2.4.2
+
+
+![](../文档图片存放处/D170BDDD99192FA7EE3890CB29D9999F.png)
 
 # yooAsset git网址
 https://github.com/tuyoogame/YooAsset
